@@ -15,6 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"">
   
   <img align="right" alt="Rafa-Ts" height="75" width="100" src="https://www.mdl.cs.tsukuba.ac.jp/~thien/resources/img/pikachu.gif">
   
