@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**NevesJulio/NevesJulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🐍 I’m currently learning DataScience with python
+- 🏛 I study at Federal University of Rio Grande do Norte (UFRN)
+- 📊 I'm Looking for projects to work with Data
+- 🐘 I'm studying php in Laravel framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![NevesJulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NevesJulio&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevesJulio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
+  
+  <img align="right" alt="Rafa-Ts" height="75" width="100" src="https://www.mdl.cs.tsukuba.ac.jp/~thien/resources/img/pikachu.gif">
+  
