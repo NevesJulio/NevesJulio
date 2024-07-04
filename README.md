@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![NevesJulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NevesJulio&show_icons=true&theme=dracula)
 
