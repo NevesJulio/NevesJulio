@@ -16,7 +16,7 @@
 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://i.pinimg.com/originals/31/f4/dd/31f4ddb56d5954a8c74e34082d0dac88.jpg">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/256/Sanji-icon.png">
   
  
   
