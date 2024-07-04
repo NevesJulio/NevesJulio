@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/256/Sanji-icon.png">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://www.pngfind.com/pngs/m/153-1537560_cavaleiros-do-zodiaco-mu-de-aries-saint-seiya.png">
   
  
   
