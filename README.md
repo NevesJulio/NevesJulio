@@ -17,5 +17,5 @@
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
   <img align="center" alt="Rafa-Ts" height="48" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"">
   
-  <img align="center" alt="Rafa-Ts" height="100" width="100" src="https://th.bing.com/th/id/R.e612a0d5fba0feaadd3fb71329c49db0?rik=429uF7P%2faFKZNg&pid=ImgRaw&r=0">
+
   
