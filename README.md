@@ -16,7 +16,7 @@
 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://i.pinimg.com/originals/40/8a/38/408a38dcd7a86586ac5eb1283e9910e2.gif">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fw2s04vkm2ub71.gif%3Fformat%3Dpng8%26s%3D30f92d0a88e5a4022f4856e4a582bf972791b7e9">
   
  
   
