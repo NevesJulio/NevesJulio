@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Júlio Neves
+# Hi, I'm Júlio Neves
 Biomedical Engineering student | AI & Deep Learning for Signal Processing and Neuroengineering
 
 ---
