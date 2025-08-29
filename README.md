@@ -10,7 +10,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://drive.google.com/drive/u/0/home">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://neuro.ufrn.br/static/media/logo.6c9e5fd4e55e3801c407.png">
 
  
   
