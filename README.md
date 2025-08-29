@@ -1,7 +1,10 @@
 
-![NevesJulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NevesJulio&show_icons=true&theme=dracula)
+# 👋 Olá, eu sou Júlio Cesar  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevesJulio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Sou estudante de Engenharia Biomédica na UFRN, com interesse em Inteligência Artificial, Processamento de Sinais e Neuroengenharia.  
+Atualmente desenvolvo projetos envolvendo aprendizado de máquina e modelagem de sistemas aplicados à saúde.  
+
+---
 
 
 <div style="display: inline_block"><br>
