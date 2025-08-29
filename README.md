@@ -1,8 +1,6 @@
 
-# 👋 Olá, eu sou Júlio Cesar  
-
-Sou estudante de Engenharia Biomédica na UFRN, com interesse em Inteligência Artificial, Processamento de Sinais e Neuroengenharia.  
-Atualmente desenvolvo projetos envolvendo aprendizado de máquina e modelagem de sistemas aplicados à saúde.  
+# 👋 Hi, I'm Júlio Neves
+Biomedical Engineering student | AI & Deep Learning for Signal Processing and Neuroengineering
 
 ---
 
