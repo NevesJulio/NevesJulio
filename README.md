@@ -26,9 +26,11 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 <a href="https://www.kaggle.com/NevesJulio" target="_blank">
   <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
 </a>
-<a href="[https://github.com/NevesJulio](https://neuro.ufrn.br/instituto/membros/graduandos/julionascimento)" target="_blank">
-  <img align="center" alt="Logo Júlio" height="60" width="80" src="https://github.com/NevesJulio/NevesJulio/blob/main/logo.6c9e5fd4e55e3801c407%20c%C3%B3pia.png">
+<a href="mailto:julio.neves.063@ufrn.edu.br" target="_blank">
+  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/tipografiaICEsimples.png" 
+       alt="Logo ICE" height="28" style="vertical-align: middle; margin-left: 4px;">
 </a>
+
   
 </div>
   
