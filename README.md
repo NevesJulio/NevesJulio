@@ -26,11 +26,13 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 <a href="https://www.kaggle.com/NevesJulio" target="_blank">
   <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
 </a>
-<a href="mailto:julio.neves.063@ufrn.edu.br" target="_blank">
-  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/tipografiaICEsimples.png" 
-       alt="Logo ICE" height="28" style="vertical-align: middle; margin-left: 4px;">
-</a>
 
+<a href="mailto:julio.neves.063@ufrn.edu.br" target="_blank" 
+   style="text-decoration: none; display: inline-flex; align-items: center; background-color: #cccb32; color: white; border-radius: 12px; padding: 5px 10px; font-family: sans-serif; font-weight: bold;">
+  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/tipografiaICEsimples.png" 
+       alt="Logo" height="20" width="20" style="margin-right: 6px;">
+  ICE
+</a>
   
 </div>
   
