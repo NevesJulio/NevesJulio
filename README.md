@@ -11,7 +11,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://github.com/NevesJulio/NevesJulio/blob/main/logo.6c9e5fd4e55e3801c407%20c%C3%B3pia.png">
-  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png">
+  <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png">
 
    ##
   
