@@ -18,8 +18,15 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
    ##
   
 <div> 
-  <a href = "mailto:julio.neves.063@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nevesjulio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:julio.neves.063@ufrn.edu.br">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/nevesjulio/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://www.kaggle.com/NevesJulio" target="_blank">
+  <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
+</a>
   
 </div>
   
