@@ -31,7 +31,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 <a href="https://neuro.ufrn.br/instituto/membros/graduandos/julionascimento" target="_blank">
   <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png" target="_blank"
        alt="Badge ICE" 
-       height="35" 
+       height="25" 
        style="vertical-align: middle;">
 </a>
 
