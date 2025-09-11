@@ -29,15 +29,15 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 
 </a>
 <a href="https://neuro.ufrn.br/instituto/membros/graduandos/julionascimento" target="_blank">
-  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png" target="_blank">
+  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png" target="_blank"
+       alt="Badge ICE" 
+       height="40" 
+       style="vertical-align: middle;">
 </a>
 
-<a href="https://neuro.ufrn.br/instituto/membros/graduandos/julionascimento" target="_blank" 
-   style="text-decoration: none; display: inline-flex; align-items: center; background-color: #cccb32; color: white; border-radius: 12px; padding: 5px 10px; font-family: sans-serif; font-weight: bold;">
-  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/tipografiaICEsimples.png" 
-       alt="Logo" height="20" width="20" style="margin-right: 6px;">
-  ICE
-</a>
+
+
+
   
 </div>
   
