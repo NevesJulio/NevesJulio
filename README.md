@@ -12,7 +12,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <img align="center" alt="Rafa-Ts" height="60" width="80" src="https://github.com/NevesJulio/NevesJulio/blob/main/logo.6c9e5fd4e55e3801c407%20c%C3%B3pia.png">
 
- 
+   ##
   
 <div> 
   <a href = "mailto:julio.neves.063@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
