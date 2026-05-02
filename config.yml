@@ -8,7 +8,7 @@ profile:
   bio: |
     Working with Computer Vision, OCR and Deep Learning systems.
     Focused on real-world applications, model optimization and deployment.
-  philosophy: '"Building models that actually work outside the lab."'
+  philosophy: '"Mathematics, intelligence, and real-world impact."'
 
 social:
   email: "julio.neves.063@ufrn.edu.br"
@@ -38,13 +38,13 @@ galaxy_arms:
       - "C++"
 
 projects:
-  - repo: "NevesJulio/NOME_DO_SEU_REPO"
+  - repo: "NevesJulio/Deep-Learning-Eye-Classifier"
     arm: 0
-    description: "OCR pipeline for license plate recognition in real-world scenarios."
+    description: '"Using Deep Learning methods for classifying diabetic retinopathy."'
 
-  - repo: "NevesJulio/NOME_DO_OUTRO_REPO"
+  - repo: "NevesJulio/ECG_Topicos"
     arm: 1
-    description: "Deep learning model training and evaluation for vision tasks."
+    description: "EEG  using deeplearning methods"
 
 theme:
   void: "#080c14"
