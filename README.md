@@ -11,10 +11,6 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" height="80"/>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/NevesJulio/NevesJulio/main/ascii-art-1777755974911.png" height="300">
-</p>
-
 ```text
                                                    
                                  .::::::::::.                                   
