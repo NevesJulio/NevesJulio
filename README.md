@@ -30,7 +30,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
          alt="Badge ICE"
          height="28">
   </a>
-</p>
+-->
 
 
 
