@@ -24,6 +24,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <a href="https://www.kaggle.com/NevesJulio">
     <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
+</p>
 <!--  <a href="https://neuro.ufrn.br/instituto/membros/graduandos/julionascimento">
     <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png"
          alt="Badge ICE"
