@@ -7,7 +7,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="80"/>
-  <img src="[https://commons.wikimedia.org/wiki/File:Icons8_flat_linux.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/3840px-Icons8_flat_linux.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" height="80"/>
+  <img src="Icons8_flat_linux.svg" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="80"/>
 </p>
