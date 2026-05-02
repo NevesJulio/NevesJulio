@@ -12,7 +12,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 </p>
 
 <p align="right">
-  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png"
+  <img src="https://github.com/NevesJulio/NevesJulio/ascii-art-1777755867955.gif"
          height="28">
 </p>
 
