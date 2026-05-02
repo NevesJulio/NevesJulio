@@ -5,41 +5,12 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 ---
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="80" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-plain.svg"  width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-plain.svg" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="80"/>
 </p>
 
-```text
-                                                   
-                                 .::::::::::.                                   
-                         .+**#-:::::*      .%*::#*+                             
-                     :** -=          --.+     .*:   =%=                         
-                  :*#. :*.  ::   ::   ..  -*:.    .:. ++%=                      
-                :*-.+ .-*=. *.  .+       -=   :::.       :#-                    
-               ##    #-       =  #*.   .*##:   #.     .+   #%=                  
-             -#   .: :--=..    +:    =#    :.-:         #    -#:                
-            .* +:.  :=-         #   .+      .+    :     *      .+               
-            #--  -=.        .=##.   #     =      --    +  +:+ +**+              
-           =-:  ..     +-.::     -  +      #+   *.     #   + =:   +             
-           #:+      :=:              -  :#-     +:    +%         :#%            
-            #  . :*%:    .   +.     *#%-             -- :=   :#. . #+           
-            %:     .*.    :*%%#***#%+              :%=      + +. .. #           
-            .#=.*=        -%.     =.  ..***: .      .         .  -=*%:          
-             :#-::=*#::::#:   .+ ::      :-.    ..=- -+   .+ .      %-          
-                :=%****%#    --   =*.    ..                        .#           
-                        #   **.  :-*.  .   .      . .     =**+.    #+           
-                        %=   -:      .++:#-:.+::.-:      *:   . ..*-            
-                        =#=*  +-    .+   .+:::::+%%%%%%#**#:::::=#:             
-                         .**- .     ...**%%*.::*.##*-+**::-*#:                  
-                              =******--=.+.+-%+*#=-:.=:+..+%+                   
-                                        .=####..+:+=:==%%*:                     
-                                           :#.  .*                              
-                                             =#  .+                             
-                                               +: .*                            
-                                                ::
-```
 
    ##
   
