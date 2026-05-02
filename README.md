@@ -11,42 +11,10 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80"/>
 </p>
 
-```text
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                 ;~+++++++++l'                                  
-                         ;XZwa/++?-+w..    l8q[+kZY`                            
-                    '+0w`)f,         1tIJ     IL}`` n8u:                        
-                  ?Qa! -Ql  ~-   ++ "`>!  |O~l    ;~< YXWf                      
-                ?L1iL ;/Ox; m:  :U       1r. "[++I       _a}                    
-               ka,, ,d1      "u",hm>^  ;mko?   p>    ';L   a&j                  
-             )k, ,<~ ~)/v<l''  L[   'nk" ,,?>|_    :    h    1o+                
-            ;O,J_:  +n1         a   ;L`     ;U    ~`    p", '  <C               
-            a1/  1ui "      >vha<   k.    v:     {{    Y  c-J UpwL"             
-           r)[` ;l     C|;<+.`` ,t  Y      hJ   QI     h  ^C^v_  ,c,            
-           k+Y    .,+f]      ,,     ^} ']d(.    J+    Y%^     :. _h&            
-           "h  ;,-Z&_   .I` ,z:     m**}      .      1( ?f   -o;'i hJ           
-            M-   ` :Z<^   [O%8bmmZ*%J.        ''   <&t      C U; ll^h           
-            ;*j<mc       .(M<.``,'uI'.!iZQZ_,I"' '''i.    .:  i''|v0M}          
-             ~k}++fOh~++}h+ . iz <+ .   `[}l.  '!>r|'1X".":X.l,     Wt          
-               `+nMwZmm&a    {1   cw>    :: ,"                  ..`<h           
-                        h   qm;  -|Q>  :   <      :.;     xmwJ!   `aJ           
-                        8v  .)-      iJz[b(~>X[~<(]     ,w]  '!"<;0}            
-                        roj0. X}.   ;X   :U[++~~C&&8%%#omZa}+++~uk+             
-                         IOw1 >'    ;;!Qw&%O<?~ZldpZ{YZZ+~(Qk[:                 
-                             ^uZmZZZO({rIc>L{%c0*n|~>v+zliC%J                   
-                                        <jdhpdi<L_zu+xv#%m?'                    
-                                           [pl  :Q^                             
-                                            .jb" IY,                            
-                                               L+'lZ                            
-                                                ~+"
-```
-
+<p align="right">
+  <img src="https://github.com/NevesJulio/NevesJulio/blob/main/BadgeICE.png"
+         height="28">
+</p>
 
    ##
   
