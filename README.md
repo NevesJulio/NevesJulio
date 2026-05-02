@@ -12,7 +12,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/NevesJulio/NevesJulio/main/ascii-art-1777755974911.png" height="150">
+  <img src="https://raw.githubusercontent.com/NevesJulio/NevesJulio/main/ascii-art-1777755974911.png" height="300">
 </p>
 
    ##
