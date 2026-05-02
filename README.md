@@ -14,7 +14,7 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 
    ##
   
-<p align="center">
+<p align="left">
   <a href="mailto:julio.neves.063@ufrn.edu.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
