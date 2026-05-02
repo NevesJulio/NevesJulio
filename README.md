@@ -34,7 +34,6 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 
 
 
----
 
 <p align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850"/>
