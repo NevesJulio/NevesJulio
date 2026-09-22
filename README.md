@@ -28,3 +28,6 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 </p>
 
 
+<p align="center">
+  <img src="./assets/github-world.gif" width="800"/>
+</p>
