@@ -28,19 +28,3 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 </p>
 
 
-
-<p align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850"/>
-</p>
-
-<p align="center">
-  <img src="./assets/generated/stats-card.svg" width="850"/>
-</p>
-
-<p align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850"/>
-</p>
-
-<p align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850"/>
-</p>
