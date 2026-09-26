@@ -29,5 +29,5 @@ Biomedical Engineering student | AI & Deep Learning for Signal Processing and Ne
 
 
 <p align="center">
-  <img src="world.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/NevesJulio/github-world/main/world.gif" width="800"/>
 </p>
